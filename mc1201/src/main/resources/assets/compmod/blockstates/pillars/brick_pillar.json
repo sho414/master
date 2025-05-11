@@ -1,0 +1,9 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "compmod:block/pillars/brick_pillar_post"
+      }
+    }
+  ]
+}

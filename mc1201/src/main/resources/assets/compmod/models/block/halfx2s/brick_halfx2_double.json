@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "all": "minecraft:block/bricks",
+    "particle": "minecraft:block/bricks"
+  },
+  "parent": "minecraft:block/polished_deepslate_slab"
+}

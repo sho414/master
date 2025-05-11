@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "compmod:block/halfvts/blick_halfvt"
+    },
+    "facing=south": {
+      "model": "compmod:block/halfvts/blick_halfvt",
+      "y":180
+    },
+    "facing=east": {
+      "model": "compmod:block/halfvts/blick_halfvt",
+      "y":90
+    },
+    "facing=west": {
+      "model": "compmod:block/halfvts/blick_halfvt",
+      "y":270
+    }
+  }
+}

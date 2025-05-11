@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "all": "minecraft:block/polished_diorite",
+    "particle": "minecraft:block/polished_diorite"
+  },
+  "parent": "compmod:block/parents/parent_halfx2_bottom"
+}

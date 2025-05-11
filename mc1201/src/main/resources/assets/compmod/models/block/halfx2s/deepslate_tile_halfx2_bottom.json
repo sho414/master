@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "all": "minecraft:block/deepslate_tiles",
+    "particle": "minecraft:block/deepslate_tiles"
+  },
+  "parent": "compmod:block/parents/parent_halfx2_bottom"
+}

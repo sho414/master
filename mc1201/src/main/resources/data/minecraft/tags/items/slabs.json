@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+
+	"compmod:halfx2s/deepslate_halfx2",
+	"compmod:halfx2s/deepslate_halfx2c",
+	"compmod:halfx2s/deepslate_brick_halfx2",
+	"compmod:halfx2s/deepslate_brick_halfx2c",
+	"compmod:halfx2s/deepslate_tile_halfx2",
+	"compmod:halfx2s/deepslate_tile_halfx2c",
+	"compmod:halfx2s/stone_brick_halfx2",
+	"compmod:halfx2s/stone_brick_halfx2c",
+	"compmod:halfx2s/polished_diorite_halfx2",
+	"compmod:halfx2s/polished_diorite_halfx2c",
+	"compmod:halfx2s/brick_halfx2",
+	"compmod:halfx2s/brick_halfx2c"
+
+  ]
+}

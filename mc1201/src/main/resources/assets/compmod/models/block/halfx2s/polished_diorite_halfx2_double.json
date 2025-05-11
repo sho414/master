@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "all": "minecraft:block/polished_diorite",
+    "particle": "minecraft:block/polished_diorite"
+  },
+  "parent": "minecraft:block/polished_deepslate_slab"
+}

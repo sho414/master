@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: compMod
+Specification-Vendor: Sho414, OtherNameHere
+Specification-Version: 1
+Implementation-Title: mc1201
+Implementation-Version: 1.0.0
+Implementation-Vendor: Sho414, OtherNameHere
+Implementation-Timestamp: 2025-05-05T21:19:05+0900
+

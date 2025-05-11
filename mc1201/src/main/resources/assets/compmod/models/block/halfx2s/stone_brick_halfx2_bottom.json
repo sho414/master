@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "all": "minecraft:block/stone_bricks",
+    "particle": "minecraft:block/stone_bricks"
+  },
+  "parent": "compmod:block/parents/parent_halfx2_bottom"
+}

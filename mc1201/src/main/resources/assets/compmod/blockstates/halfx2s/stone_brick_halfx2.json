@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "compmod:block/halfx2s/stone_brick_halfx2_bottom"
+    },
+    "type=top": {
+      "model": "compmod:block/halfx2s/stone_brick_halfx2_bottom",
+      "x": 180
+    },
+    "type=double": {
+      "model": "compmod:block/halfx2s/stone_brick_halfx2_double"
+    }
+  }
+}

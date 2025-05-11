@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "compmod:block/halfvts/stone_brick_halfvt"
+    },
+    "facing=south": {
+      "model": "compmod:block/halfvts/stone_brick_halfvt",
+      "y":180
+    },
+    "facing=east": {
+      "model": "compmod:block/halfvts/stone_brick_halfvt",
+      "y":90
+    },
+    "facing=west": {
+      "model": "compmod:block/halfvts/stone_brick_halfvt",
+      "y":270
+    }
+  }
+}

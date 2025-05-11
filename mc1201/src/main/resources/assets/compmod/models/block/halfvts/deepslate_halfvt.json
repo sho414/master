@@ -1,0 +1,7 @@
+{
+  "textures": {
+    "all": "minecraft:block/polished_deepslate",
+    "particle": "minecraft:block/polished_deepslate"
+  },
+  "parent": "compmod:block/parents/parent_halfvt"
+}
